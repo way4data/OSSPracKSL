@@ -3,7 +3,5 @@
 
 [OSS실습 전자책 바로가기](https://wikidocs.net/book/13835)
 
-My Claa: OSSPrac
-My Name: Kilsup Lee  
-Date: 27 Mar, 2024
-Weather: Clean
+Name : Kilsup Lee
+Date : 27, Mar 2024
