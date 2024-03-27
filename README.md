@@ -6,6 +6,4 @@
 ### 김호정
 ### readme 2차 수정
 2024  
-Wednesday
-
-diff
+class oss prac
