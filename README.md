@@ -4,8 +4,5 @@
 [OSS실습 전자책 바로가기](https://wikidocs.net/book/13835)
 
 ### 김호정
-### readme 수정
-으아으아ㅏㅏㅏㅏㅏㅏ
-ossprac이다.
-ㅇㄹㄴㅇㄹㄹㄴ
-dfadfa
+### readme 2차 수정
+2024dfdfas
