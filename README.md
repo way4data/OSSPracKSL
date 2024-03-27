@@ -6,3 +6,4 @@
 My Claa: OSSPrac
 My Name: Kilsup Lee  
 Date: 27 Mar, 2024
+Weather: Clean
