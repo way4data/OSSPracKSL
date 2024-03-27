@@ -5,4 +5,4 @@
 
 My Claa: OSSPrac
 My Name: Kilsup Lee
-일자: 2024. 3. 27
+Date: 27 Mar, 2024
