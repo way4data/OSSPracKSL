@@ -4,6 +4,7 @@
 [OSS실습 전자책 바로가기](https://wikidocs.net/book/13835)
 
 Member Name: Kilsup Lee
+             Gildong Hong
 
 Modified at Working Directory - Mar 27 0145  
 Modified at Working Directory - Mar 27 0200  
