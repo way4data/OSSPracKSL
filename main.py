@@ -1,2 +1,2 @@
-print("Hi Kilsup Lee~")
-print("Hi Gildong Hong~")
+<<<<<<< HEAD
+print("Hello Kilsup Lee!")
