@@ -3,7 +3,3 @@
 
 [OSS실습 전자책 바로가기](https://wikidocs.net/book/13835)
 
-Modified at Working Directory - Mar 27 0145  
-Modified at Working Directory - Mar 27 0200
-
-Git Merge Test2
