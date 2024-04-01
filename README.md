@@ -4,3 +4,4 @@
 
 Fetch & Merge
 A
+B
