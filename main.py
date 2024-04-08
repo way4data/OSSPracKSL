@@ -1,5 +1,5 @@
 print("Hello Kilsup Lee!")
-print("Hello World!")
+print("Testing Git Merging")
 name = input("이름: ")
 print("환영 " + name + "님!")
 plang = input("programming_language: ")
